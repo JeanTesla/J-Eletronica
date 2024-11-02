@@ -10,4 +10,5 @@ Sendo possível informar: <br>
 
 ![image](https://github.com/user-attachments/assets/869ea053-3340-4154-b5af-6f1171ab1eb4)
 
-![image](https://github.com/user-attachments/assets/cfb985fe-b9aa-43e8-8903-d00cf96f0d76)
+![image](https://github.com/user-attachments/assets/4d93d40a-2185-48f7-ad17-46292a2d0bd3)
+
