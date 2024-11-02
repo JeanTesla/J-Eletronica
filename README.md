@@ -1,10 +1,10 @@
 O projeto permite um simples gerenciamento de garantia e fluxo de eletrônicos. 
-Sendo possívle informar:
--> Data de entrada
--> Data de saída
--> Gerar termo de garantia com assinatura no formato PDF
--> Nome do equipamento
--> Defeito
+Sendo possívle informar: <br>
+-> Data de entrada <br>
+-> Data de saída <br>
+-> Gerar termo de garantia com assinatura no formato PDF <br>
+-> Nome do equipamento <br>
+-> Defeito <br>
 
 ![image](https://github.com/user-attachments/assets/4ee172b4-516e-43d2-817d-4c7e3af372d7)
 
