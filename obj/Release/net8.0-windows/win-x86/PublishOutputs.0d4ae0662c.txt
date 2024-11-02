@@ -1,0 +1,9 @@
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\JEletronicaC#.pdb
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\D3DCompiler_47_cor3.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\PenImc_cor3.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\PresentationNative_cor3.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\vcruntime140_cor3.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\wpfgfx_cor3.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\sni.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\SQLite.Interop.dll
+C:\Users\Tesla-notebook\Documents\softwares\JEletronica\JEletronicaC#.exe
