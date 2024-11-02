@@ -1,5 +1,5 @@
 O projeto permite um simples gerenciamento de garantia e fluxo de eletrônicos. 
-Sendo possívle informar: <br>
+Sendo possível informar: <br>
 -> Data de entrada <br>
 -> Data de saída <br>
 -> Gerar termo de garantia com assinatura no formato PDF <br>
